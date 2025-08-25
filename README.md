@@ -1,3 +1,3 @@
 # Project : Malware Analysis and Prevention Strategy  
 
-This repository contains **Project 2** for the **DEPI Cybersecurity Track**.  
+This repository contains **Project ** for the **DEPI Cyber Security Incident Response Analyst**.  
